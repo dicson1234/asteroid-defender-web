@@ -17,16 +17,18 @@ Para instalar Pygame, ejecuta:
 bash
 --pip install pygame
 
-Cómo jugar
+## Cómo jugar
 
-Clona este repositorio o descárgalo:
+1. Descarga el repositorio:  
+   - Haz clic en el botón verde **Code** en la parte superior derecha.  
+   - Selecciona **Download ZIP** y descomprímelo en tu computadora.  
 
-git clone https://github.com/tuusuario/asteroid_defender.git
-cd asteroid_defender
+2. Abre una terminal en la carpeta del proyecto.
 
-## Ejecuta el juego:
+3. Ejecuta el juego con:
+   ```bash
+   python asteroid_defender.py
 
-python asteroid_defender.py
 
 ## Controles:
 
